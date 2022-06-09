@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE [dbo].[spUser_delete]
+﻿CREATE PROCEDURE [dbo].[spUser_Delete]
 	@id int
 AS
 BEGIN
